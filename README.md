@@ -10,6 +10,6 @@ docker-compose down
 
 More info:   
 
-- [Apache Kafka® Quick Start] (https://developer.confluent.io/quickstart/kafka-docker/)
+- [Apache Kafka® Quick Start](https://developer.confluent.io/quickstart/kafka-docker/)
 - [Kafdrop – Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)
 - [Apache Kafka + Kafdrop + Docker Compose](https://medium.com/azure-na-pratica/apache-kafka-kafdrop-docker-compose-montando-rapidamente-um-ambiente-para-testes-606cc76aa66)
